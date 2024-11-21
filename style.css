@@ -1,0 +1,25 @@
+
+p{color :purple;}
+
+/*who{ what: how;}*/
+
+h1{color:blue;}
+
+ol{color:brown;}
+
+ul{color:blueviolet;}
+
+.list{color:black;}
+ 
+.job{
+color:aqua;
+margin:10px;
+border-style:dashed;
+border-color:black ;
+border-radius:30px;
+text-align:center;
+}
+#header{
+    color :darkblue;
+    text-align:center;
+}
